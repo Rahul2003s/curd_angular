@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Dharsan",
+      "lastname": "Raj",
+      "email": "dharsan@gmail.com",
+      "mobile": "8529637412",
+      "salary": "1200000"
+    },
+    {
+      "id": 2,
+      "firstname": "Sukanth",
+      "lastname": "kumar",
+      "email": "suki123@gmail.com",
+      "mobile": "8520741963",
+      "salary": "9999999"
+    },
+    {
+      "id": 3,
+      "firstname": "prasana",
+      "lastname": "venky",
+      "email": "pras305@gmail.com",
+      "mobile": "7418529634",
+      "salary": "70000000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
